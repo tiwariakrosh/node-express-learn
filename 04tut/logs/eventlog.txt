@@ -1,0 +1,5 @@
+2025-12-14	 05:37:17	15486760-1ca3-4bc5-8a14-5016fc6ea813	Log event emitted!!
+2025-12-14	 05:38:00	804529c2-c27b-47f8-bc3c-3441ba272d99	Log event emitted!!
+2025-12-14	 05:39:59	f02e36ee-93ee-4a0b-b944-dd0390ce10ee	Log event emitted!!	undefined
+2025-12-14	 05:40:30	ab3dc1a3-397d-4878-a5b4-3e804646fbf5	Log event emitted!!	undefined
+2025-12-14	 05:41:00	e11eb500-0263-441a-a4a3-e69d4b1da8bb	Log event emitted!!	new Log Emmit Message

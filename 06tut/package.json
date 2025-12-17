@@ -1,7 +1,7 @@
 {
-  "name": "05tut",
+  "name": "06tut",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express tutorial",
   "license": "ISC",
   "author": "Akrosh",
   "type": "commonjs",
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "date-fns": "^4.1.0",
+    "express" : "^5.2.1",
     "uuid": "^13.0.0"
   },
   "devDependencies": {

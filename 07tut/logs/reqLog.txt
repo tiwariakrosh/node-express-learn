@@ -1,8 +1,51 @@
-2025-12-17	 01:55:49	1ee6077e-c4d9-465f-8cdc-63046e72f107	/new-page.html	GET	reqLog.txt
-2025-12-17	 01:55:49	b213c2d0-46d7-4233-8288-71ed9b7f8ba6	/css/style.css	GET	reqLog.txt
-2025-12-17	 01:55:49	57c97aa3-d63a-4181-8a29-4ead46851a94	/img/img1.jpg	GET	reqLog.txt
-2025-12-17	 01:57:01	8981b981-d614-47fc-a4c9-afc3e188761c	/new-page.html	GET	reqLog.txt
-2025-12-17	 01:58:25	06187ec3-b53f-405a-9c28-2dfbf544aa39	/new-page.html:	GET	reqLog.txt
-2025-12-17	 01:58:45	0d4597af-4ba2-48bd-bfd0-255d5ac16b9d	/new-page.html:	GET	reqLog.txt
-2025-12-17	 01:58:45	6edcc413-650d-4232-89c5-bfe6b6603f1b	/css/style.css:	GET	reqLog.txt
-2025-12-17	 01:58:45	d2182c5e-8cca-40f0-8b4f-0365c15fef07	/img/img1.jpg:	GET	reqLog.txt
+2025-12-18	 09:51:45	e1b0e7c1-daab-4c86-8097-f3f5a00da0dd	GET	undefined	/	reqLog.txt
+2025-12-18	 09:51:45	21edcb5a-f570-4f4b-b3a9-fad5a38d46de	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 09:51:53	d0eb9890-baea-4280-82f3-52607ad81937	GET	undefined	/index	reqLog.txt
+2025-12-18	 09:51:53	0ae1b829-f7bc-4b3c-ab07-043d4c57e1bc	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 09:51:56	a57a97a8-12c1-44ac-bb59-7569c68bc56e	GET	undefined	/	reqLog.txt
+2025-12-18	 09:51:56	52974970-ac66-4fc9-a275-3ac185d9274e	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 09:52:03	af582228-fd01-4c4f-9f90-7b3b3cfe2fca	GET	undefined	/chain	reqLog.txt
+2025-12-18	 09:52:05	d7fffce9-b06f-4a51-abfe-c69cde9853e4	GET	undefined	/	reqLog.txt
+2025-12-18	 09:52:05	f4809ad6-bf65-42ef-901b-e9726507bd89	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 09:59:43	1e39ef44-f211-42c2-9c99-b27d82a4c914	GET	undefined	/	reqLog.txt
+2025-12-18	 09:59:44	94d36d75-c829-4de8-8641-9ab9af834684	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 10:00:04	3dd70818-d34f-4591-8488-638c7c7a52f7	GET	undefined	/	reqLog.txt
+2025-12-18	 10:00:04	9d8d440a-04f3-41d8-8db4-6d7ddb425398	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 10:03:39	69448102-b85b-4768-81c2-828b623c6e52	GET	https://www.google.com	/	reqLog.txt
+2025-12-18	 10:04:44	442689ce-179b-415a-90b8-903ec050de86	GET	https://www.google.com	/	reqLog.txt
+2025-12-18	 06:19:39	0eedde47-5d1c-4866-9e64-d21b6ce9360f	GET	https://www.google.com	/	reqLog.txt
+2025-12-18	 06:20:02	b9b36b53-6c07-4cf9-a292-2f1a1aa37ef7	GET	https://www.google.com	/	reqLog.txt
+2025-12-18	 06:20:12	ff1bf7aa-899a-408c-8672-20ed51ef5d97	GET	undefined	/	reqLog.txt
+2025-12-18	 06:20:43	69864f0b-31a7-4eda-84de-fed1ff762c3d	GET	https://www.google.com	/	reqLog.txt
+2025-12-18	 06:21:01	94f4b2f4-3592-464c-baa3-cdec69b5c1d4	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:02	6d58ade6-9edf-474c-8d0e-17571b141c9f	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:42	b5d45d1a-42ea-4f64-8d4f-71074b799d16	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:43	9b5c4409-9847-48e6-9c6e-631747b3e3d3	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:43	046d791f-4085-41bf-bfcd-74136fa7e619	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:44	eb447dd6-6a1a-42a4-b41f-a4c4d115b52b	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:44	4f45350a-8f23-4bbf-9388-6e3dc8465395	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:44	7fb86672-f287-42d3-90b4-8c8e1ead72b4	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:44	307c44b3-8421-4439-8c02-acccd928af7d	GET	undefined	/	reqLog.txt
+2025-12-18	 06:21:44	6de718e4-dffc-443d-9649-a3a39fa83537	GET	undefined	/	reqLog.txt
+2025-12-18	 06:22:16	49257293-9311-425c-98e4-1cb5063e526b	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:27:16	d799f386-3001-491c-b978-b69982ddf0f4	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:28:19	65a865fe-2e27-402b-9e34-8bb0773e9104	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:28:19	b1378041-54fb-4e7c-8c37-60909412ad5a	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 06:33:36	06a573c7-0444-4784-9e3c-a126fb5fa622	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:33:36	650634ee-b1d9-47dc-a26e-4413a99e775c	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 06:33:49	7ab0d9f2-3c18-4424-9a37-1eb217a756b9	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:33:52	ed424c15-5dd9-4ef5-ba6f-226f11559580	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:34:50	da0ef15d-0a88-48a8-b22b-b3af3c7e9de4	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:34:50	f253bec1-4091-47df-a877-dae677d48d56	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 06:43:38	c95fda63-72de-4537-8e72-1ad4560586e0	GET	undefined	/index.txt	reqLog.txt
+2025-12-18	 06:44:26	ca1f63b3-2f58-4ee0-b526-047fbf963c1d	GET	undefined	/data/data.json	reqLog.txt
+2025-12-18	 06:44:33	47ec3674-b772-4fa7-8493-bcfd8465c366	GET	undefined	/index	reqLog.txt
+2025-12-18	 06:44:33	4d704762-a1dc-4af9-9cc6-23f5ad7c5f43	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 06:44:39	247f446d-f91e-4417-bbb7-9cb171bcabda	GET	undefined	/index.html	reqLog.txt
+2025-12-18	 06:44:39	cb7b4251-9130-4a79-ae4f-45400e23307a	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 06:47:10	e1567379-9a71-4ed1-8265-0b7aaab7f443	GET	undefined	/index.txt'	reqLog.txt
+2025-12-18	 06:47:11	3e86da00-41b6-4790-ab04-ef21bf8951d8	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 06:47:15	5d50e544-c0ea-4b1d-aa72-7c9b200e46a5	GET	undefined	/index.txt	reqLog.txt
+2025-12-18	 06:47:15	6d2dc333-fdf7-4a5b-b66e-7d4750bc957a	GET	undefined	/css/style.css	reqLog.txt
+2025-12-18	 06:47:29	e4aba31e-e6e0-4510-972f-1502f5a382b9	GET	undefined	/index.json	reqLog.txt
+2025-12-18	 06:47:29	d326f971-88e7-479a-bf8f-b581d22fab72	GET	undefined	/css/style.css	reqLog.txt

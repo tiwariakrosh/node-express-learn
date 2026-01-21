@@ -126,3 +126,8 @@
 2026-01-09	 10:18:02	986224de-4388-4062-b3a4-a48d8b35a15c	PUT	undefined	/employees	reqLog.txt
 2026-01-09	 10:21:12	07543d18-1745-4651-8e25-b8ac961384de	PUT	undefined	/employees	reqLog.txt
 2026-01-09	 10:21:23	04f9c307-ca49-4116-94f1-86d350887ea9	PUT	undefined	/employees	reqLog.txt
+2026-01-21	 07:04:52	39665ee0-331c-4c2a-bb6d-652d1b2b7836	POST	undefined	/register	reqLog.txt
+2026-01-21	 07:05:55	1a3b8f42-35d0-4424-94ac-71195afe0965	POST	undefined	/register	reqLog.txt
+2026-01-21	 07:55:11	80db2358-bae5-4f23-8733-533c74c9b589	POST	undefined	/auth	reqLog.txt
+2026-01-21	 07:55:47	75335395-e3be-4a43-8317-4115de8b3c1d	POST	undefined	/auth	reqLog.txt
+2026-01-21	 07:57:13	219962e4-0b7e-466e-985c-b326dc483e2e	POST	undefined	/register	reqLog.txt
